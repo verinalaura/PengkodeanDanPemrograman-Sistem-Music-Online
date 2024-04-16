@@ -15,3 +15,5 @@ Referensi Web: https://github.com/RafyMrX/TOKO-ONLINE-ROTI/blob/master/PASSWORD%
 ![Screenshot (71)](https://github.com/verinalaura/PengkodeanDanPemrograman-Sistem-Music-Online/assets/166783472/7d803909-46b8-470e-9d7e-0be5fb38b6c2)
 ![Screenshot (72)](https://github.com/verinalaura/PengkodeanDanPemrograman-Sistem-Music-Online/assets/166783472/34b9eb27-aebd-4452-a807-9e9a2de74d73)
 ![Screenshot (73)](https://github.com/verinalaura/PengkodeanDanPemrograman-Sistem-Music-Online/assets/166783472/06f1fc54-e67e-4f4a-8995-3fe4b748f246)
+# ERD
+![image](https://github.com/verinalaura/PengkodeanDanPemrograman-Sistem-Music-Online/assets/166783472/afe04163-98ec-472e-83d3-f59bc2dff9cb)
